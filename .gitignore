@@ -1,0 +1,14 @@
+# Banco H2 (dados locais de cada pessoa)
+data/
+
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Sistema
+.DS_Store
+Thumbs.db
