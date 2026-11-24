@@ -1,10 +1,10 @@
 # Banco Java
 
-Aplicação back-end de um banco, em Java puro (sem Spring), com menu interativo no console.
+Aplicação back-end de um banco, em Java puro com menu interativo no console.
 
 ## Integrantes
 - Kimberly Da Silva Ribordao
-- [NOME DA DUPLA]
+
 
 ## Tema e problema
 Uma agência pequena precisa controlar clientes, contas e movimentações financeiras. Feito em papel
